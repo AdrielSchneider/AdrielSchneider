@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 Hi, My name's Adriel Schneider (@AdrielSchneider), 24 years old, from Brazil.
 
-- What technologies I know?
+- Which technologies I know?
   - Pascal
   - Java
   - Angular
