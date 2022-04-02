@@ -18,9 +18,8 @@ Hi, My name's Adriel Schneider (@AdrielSchneider), 24 years old, from Brazil.
   - Java
   - Angular
   - Typescript
-  - Flutter
-  - Dart
-  - SQL
+  - Flutter/Dart
+  - SQL (Firebird, SQLite, PostgreSQL)
   
 - What's my experience?
   - 4 years and 10 months on Junsoft Sistemas ( Toledo - Paraná - Brazil ).
