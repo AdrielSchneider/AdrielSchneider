@@ -23,7 +23,7 @@ Hi, My name's Adriel Schneider (@AdrielSchneider), 25 years old, from Brazil.
   
 - What's my experience?
   - 4 years and 10 months on Junsoft Sistemas ( Toledo - Paraná - Brazil ).
-  - 2 years as Auxiliar Teacher at IFPR ( Institudo Federal do Paraná ).
+  - 2 years as Auxiliar Teacher at IFPR ( Instituto Federal do Paraná ).
   - Since November/2020 working to Ultra Sistemas ( Marechal Cândido Rondon - Paraná - Brazil).
   
 - Want to contact me?
